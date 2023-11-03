@@ -1,13 +1,13 @@
 # GO DİLİ NOTLARI
 
-Merhaba , oldukça popüler olan Go dilini öğrenmeye başladım ve bir çok eğitim ve araştırma sonucunda öğrendiğim Go dili bilgilerimi buraya aktarıyorum.  Aynı zamanda Medium hesabımda yayınladığım bilgilerime bakabilirsiniz.
-Kendimi Go dilinde geliştirdikten sonra çeşitli projelerimde mevcut olucak. 
+***Merhaba , oldukça popüler olan Go dilini öğrenmeye başladım ve bir çok eğitim ve araştırma sonucunda öğrendiğim Go dili bilgilerimi buraya aktarıyorum.  Aynı zamanda Medium hesabımda yayınladığım bilgilerime bakabilirsiniz.
+Kendimi Go dilinde geliştirdikten sonra çeşitli projelerimde mevcut olucak. ***
 
 
-## İçerik
+### İçerik
 
-## Blog Serisi
-
+### Blog Serisi
+[Medium](https://medium.com/@didem.kis)
 
 ---
   
