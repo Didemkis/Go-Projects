@@ -18,6 +18,8 @@ fmt.Println(hesap)
 fmt.Printf("veri tipi : %T", hesap) //
 // Printf = formatını yani veri tipini bize söyler ."%T"  yüzde işareti kendinden sonraki ilkini yazdırır T işareti de type'ını yazdırır
 
+ // ":=" değişkeni hem tanımlıyorum hemde atıyorum demek. 
+ 
 //Örnek1
 var durum bool
 

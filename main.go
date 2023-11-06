@@ -1,6 +1,11 @@
 package main 
  
-import "golesson/Variables"
+import (
+	"fmt"
+	"golesson/Variables"
+)
+
 func main(){
 	Variables.variables
+	Conditionals.conditionals
 }

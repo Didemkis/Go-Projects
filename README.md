@@ -12,6 +12,8 @@ Kendimi Go dilinde geliştirdikten sonra çeşitli projelerimde mevcut olucak.
 ---
   
 ## Paket Mantığı
+- Module mantığı olan bir sistemdedir GO dili.
+- Mantık şu şekildedir, Bizim modullerimiz vardır ve bu modullerimizin içinde de paketlerimizi oluştururuz . Bu paketlerimizin içerinde fonksiyonlarımız vardır. Bunların hepsini biz kendi konumuza göre oluşturup gerektiği yerde kullanıyoruz. Aşağıda örnekleri de vardır.
 - Her kaynak dosya, bu dosyanın hangi pakete ait olduğunu belirten bir paket bildirimi ile başlar. Paket adları her zaman küçük harfle yazılır.
 - Bir paketin tüm .go dosyaları tek bir dizinde bulunur. Ayrıca, bir dizinde yalnızca bir paket bulunabilir.
 - Main paketi, bir kütüphane yerine bir çalıştırılabilir dosya tanımladığı için özeldir. Her çalıştırılabilir dosya bir main paketi ve giriş noktası olan bir main fonksiyonu içermelidir.
