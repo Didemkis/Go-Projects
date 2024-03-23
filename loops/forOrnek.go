@@ -28,18 +28,19 @@ func Demo1() {
 
 //Kullanıcıdan bir sayı girmesini iste ve girilen sayının asal sayı olup olmadığını belirt.
 func Demo2() {
+	//1. aşama
 	sayi := 0
 	fmt.Println("Lütfen bir sayı giriniz.")
 	fmt.Scanln(&sayi)
 
-	asalMı := true
-	for i := 2; i < sayi; i++ {
-		if sayi%i == 0 {
-			asalMı = false
+	durum := true
+	for i := 2; i < sayi; i++ { //2 'den kendisine kadar olan sayılara bölme.
+		if sayi%i == 0 { // % mod operatörü. Sayının i'ye bölümünden kalan 0 ise 
+			durum = false
 		}
 	}
 
-	if asalMı == true {
+	if durum == true {
 		fmt.Println("Asaldır.")
 	} else {
 		fmt.Println("Asal değildir.")
